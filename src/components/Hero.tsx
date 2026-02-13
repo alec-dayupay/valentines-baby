@@ -50,14 +50,14 @@ export default function Hero() {
         variants={item}
         className="text-7xl mb-6 text-center font-romantic text-rose-600"
       >
-        Our Love Story
+        Happy Valentine's Day!
       </motion.h1>
 
       <motion.p
         variants={item}
         className="text-2xl text-center text-rose-500 font-elegant italic max-w-2xl mb-12"
       >
-        Every moment with you is a treasure...
+        Reminiscing on the Moments We Spent Together...
       </motion.p>
 
       <motion.div
@@ -67,7 +67,7 @@ export default function Hero() {
         transition={{ duration: 2, repeat: Infinity }}
       >
         <p className="text-sm tracking-widest uppercase text-rose-400 font-semibold">
-          Scroll to explore
+          Scroll Down
         </p>
         <svg
           className="w-6 h-6 text-rose-400"
